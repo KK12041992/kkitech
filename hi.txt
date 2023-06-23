@@ -1,1 +1,30 @@
 hiii
+
+barnch create  
+
+git checkout -b "bugfix"
+
+switch branch 
+
+git checkout main
+git checkout bugfix
+
+to marge the changes
+
+git merge bugfix
+
+delete file in cmd
+del
+delete file in linux
+rm
+
+
+git status
+git add  
+git pull
+git commit
+git push
+git merge
+git checkout
+
+git clone https://github.com/KK12041992/kkitech.git
